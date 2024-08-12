@@ -15,10 +15,12 @@
             "deniedIPs": [
                 "0.0.0.0/0"
             ]
+        },
+        "displaySettings": {
+            "showSourceCode": false
         }
     },
-    "apps": [
-        {
+    "apps": {
             "name": "Radarbot",
             "type": 1,
             "bundleID": "com.iteration-mobile.radarbot-free-ww",
