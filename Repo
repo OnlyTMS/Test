@@ -10,7 +10,7 @@
         "repoIcon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
         "ipRestrictions": {
             "allowedIPs": [
-                "213.80.113.5",
+                "213.80.113.5"
             ],
             "deniedIPs": [
                 "0.0.0.0/0"
